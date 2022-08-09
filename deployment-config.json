@@ -1,0 +1,14 @@
+[
+    {
+        "name": "server-digitaloceans",
+        "ip": "104.248.50.61",
+        "username": "root",
+        "password": "SAfwan@1234s",
+        "port": "22",
+        "beforehooks": "echo $GITHUB_SHA",
+        "afterhooks":"",
+        "path":"/var/www/html"
+    }
+]
+
+
