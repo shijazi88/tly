@@ -6,7 +6,7 @@
         "password": "SAfwan@1234s",
         "port": "22",
         "beforehooks": "echo $GITHUB_SHA",
-        "afterhooks":"",
+        "afterhooks":"", 
         "path":"/var/www/html"
     }
 ]
